@@ -3,7 +3,7 @@ Hello Everyone, Today I made another project that is related to the Universal Ma
 
 This Project is very beneficial for DSA Students because the all concepts related to the Matrix and Arrays which are are the main part of DSA are coverd in my project.
 
-The Most Importent Matrixes which are coverd in My Project are,
+The Most Important Matrixes which are covered in My Project are,
 
 1.Addition Matrix
 
